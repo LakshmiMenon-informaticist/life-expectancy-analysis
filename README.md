@@ -69,9 +69,9 @@ To explore the full analysis:
 
 ## 📚 Authors
 
-- Adekola Adepoju
+- Lakshmi Menon
 - Harsha Kamineni
-- Lakshmi Ravindranathan Menon
+- Adekola Adepoju
 - Lavanya Pragada
 - Pooja Manikonda
 
